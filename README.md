@@ -1,2 +1,8 @@
 # FPM-Projects
-Scripts created in my class.
+Simple scripts created in my class.
+
+# Calculadora
+Una calculadora simple.
+
+# Años 
+calcula los idas que faltan para tu cmpleaños.
