@@ -1,8 +1,8 @@
 # FPM-Projects
 Simple scripts created in my class.
 
-# Calculadora
+# calculadora.sh
 Una calculadora simple.
 
-# Años 
+# cumple.sh
 calcula los idas que faltan para tu cmpleaños.
