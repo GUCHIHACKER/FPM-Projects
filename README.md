@@ -5,4 +5,4 @@ Simple scripts created in my class.
 Una calculadora simple.
 
 # cumple.sh
-calcula los idas que faltan para tu cmpleaños.
+calcula los idas que faltan para tu cumpleaños.
