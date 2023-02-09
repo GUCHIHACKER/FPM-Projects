@@ -8,6 +8,6 @@ Una calculadora simple.
 Calcula los dias que faltan para tu cumpleaños.
 
 # kahoot.py
-'''bash
+´´´bash
 a
-'''
+´´´
