@@ -51,6 +51,7 @@ function calculadora(){
         N)
             echo "--------gracias por utilizar mi calculadora:)--------"
             echo "                   By El.Fenix                       "
+            tput civis
             chars="/-\|"
             repes=0
             while [ $repes -lt 10 ]; do
@@ -60,6 +61,7 @@ function calculadora(){
                     repes=$((repes+1))
                 done 
             done
+            tput cnorm
             exit
 
     esac
