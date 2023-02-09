@@ -8,6 +8,9 @@ Una calculadora simple.
 Calcula los dias que faltan para tu cumpleaños.
 
 # kahoot.py
+Usange:
 ```bash
-a
-´´´
+./kahoot.py <code kahoot> <name of kahoot>
+Example: ./kahoot.py 102938476 GUCHI
+```
+A simple script in python to automatize enter kahoot.
