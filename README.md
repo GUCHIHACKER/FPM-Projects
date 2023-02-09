@@ -5,4 +5,9 @@ Simple scripts created in my class.
 Una calculadora simple.
 
 # cumple.sh
-calcula los idas que faltan para tu cumpleaños.
+Calcula los dias que faltan para tu cumpleaños.
+
+# kahoot.py
+'''bash
+a
+'''
