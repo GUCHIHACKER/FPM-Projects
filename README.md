@@ -14,3 +14,10 @@ Usange:
 Example: ./kahoot.py 102938476 GUCHI
 ```
 A simple script in python to automatize enter kahoot.
+
+# net_scan.sh
+Escaner de toda la red en tiempo real y 
+Installation:
+```bash
+sudo apt install arp-scan
+```
